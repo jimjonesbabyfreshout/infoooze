@@ -44,7 +44,7 @@
     "jsdom": "^19.0.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
-    "open": "^8.4.0",
+    "open": "^8.4.2",
     "portscanner": "^2.2.0",
     "sentence-case": "^3.0.4",
     "update-notifier": "^5.1.0",
