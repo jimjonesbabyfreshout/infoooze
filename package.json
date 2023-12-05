@@ -48,7 +48,7 @@
     "portscanner": "^2.2.0",
     "sentence-case": "^3.0.4",
     "update-notifier": "^5.1.0",
-    "whois-json": "^2.0.4"
+    "whois-json": "^2.1.0"
   },
   "devDependencies": {
     "eslint": "^8.15.0",
